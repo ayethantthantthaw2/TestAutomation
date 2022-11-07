@@ -1,0 +1,2 @@
+rootProject.name = "Burger_Joint"
+include ':app'
